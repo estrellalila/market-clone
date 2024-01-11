@@ -22,7 +22,7 @@ main {
   width: 50px;
 }
 .item-list_info {
-  height: 140px;
+  height: 145px;
   display: flex;
   flex-direction: column;
   justify-content: start;
